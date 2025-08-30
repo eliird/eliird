@@ -1,6 +1,6 @@
 # Ird Ali
 
-I am a masters student graduating in 2024 researching Human Robot Interaction. I have worked on embedded systems for 2 years using C++, Verilog, Python and LabVIEW. I am interested in pursuing career as a Software/Backend Engineer. I have also worked on several projects in GO.
+I am a programmer, I make computer beep boop beep boop and I dont include anything that has windows in it computer.
 
 ### **Contact**
 
@@ -16,21 +16,26 @@ Experiencing Life
 
 # Skills
 
-### Python
 
-I have extensive experience with python, having learnt it during my bachelors and have been using it for my research tasks and report generation regularly. I have worked with python for 4 years. For the last 2 years I have been using PyTorch and Tensorflow frameworks for my research regularly. I have extensive experience of using libraries like pandas, beautifulSoup, scikit-learn, matplotlib, pyodbc for data analysis and visualization.
+### Rust
+
+Love of my life.
 
 ### C++
 
-I have used C++ for most of my projects during my bachelors including my final year project. I have used it professionally for half an year and helped migrate code from C++ to another language. My final project was to build a scheduler for a Data Acquisition System capable of receiving signals from 12 microphones and 3 cameras in real-time.  
+I like rust so you probably already know I hate C++ and like to complain about every single thing in it and there are too many things in it
+
+### Python
+
+i hate to program in it but its good an developement is fast
 
 ### LabVIEW
 
-LabVIEW is a visual programming language and I have used it for 2 years professionally to build apps and program FPGAs
+Drawing stuff is fun
 
 ### Go
 
-I learned go for building servers for a website I want to host as a side project.
+similar experience as python in terms of dev speed (python is much faster) but is compiled but i would pick this over python over any day because STATIC TYPING 
 
 ---
 
@@ -38,44 +43,31 @@ I learned go for building servers for a website I want to host as a side project
 
 ### Masters in Human Robot Interaction
 
-Osaka University, Osaka, Japan
-
-(Completion Date: March 2024)
-
-- Developed Solid understanding of Robot Operating System.
-- Acquired practical skills in using Python for building Machine Learning Models.
-- Gained proficiency in data analysis using python.
-- Developed a solid understanding of database management with SQL.
-- Learned how to research and solve a problem with no existing solution.
+Got in to build robots, read a lot of papers on human behavior
 
 ### Bachelor of Electrical Engineering/Embedded Enginnering
 
-Pakistan Institute of Engineering and Applied Science, Islamabad, Pakistan
+was actually fun, realized I liked building things
 
-(Graduation Date: May 2019)
+### [Frontend Masters](https://frontendmasters.com/courses/rust/)
 
-- Gained a deep understanding of how computers work and how code is executed on the computers at a hardware level
-- Build several projects using micro controllers:
-    - 2D Robot arm capable of scanning an image, dividing it into small lines and drawing those lines using a pen
-    - Scheduler for Data Acquisition System
-    - Using Digital Logic Design to build a Calculator
-    - Designing a smart charger for UPS
+How I found out Javascript land and started having nightmares. 
 
-### Frontend Masters
+### [bootdev](https://www.boot.dev/)
 
-Online platform for learning Software Developement
+Actually recommend this to anyone who wants to learn programming. Especially the course on memory by TJ (the guy with prime) and primeagen's git course. Also check their youtube channels you might find coupons.
 
-- Learned VIM
-- Acquired practical skills in front-end technologies such as HTML, CSS, and JavaScript.
-- Gained an understanding in the workings of back-end development using GO.
-- Developed a solid understanding of database management with SQL and MongoDB.
-- Learned version control with Git
+### Datacamp
 
-### Udemy
+Just get a book for dummies instead, information is often not very deep. But the interactive part and excercises are probably the best in any online courses.
 
-Online Learning Platform
 
-- Took a course in Data Analytics by IBM
-    - Helped me gain insights of how cloud technologies help with the data analysis and how they can be used to solve problems.
+# Books and Blogs I like
+- Brendann Gregg's Performance Engineering or anything he writes on his blogs about observability, freaking gold.
+- Maxim Lapans Reinforcement Leraning
+- C++ primer, if you hate yourself
+- The_C++_Programming_Language_4th_Edition_Bjarne_Stroustrup, if you really really hate yourself and there is nothing else going in your life.
+- [Just search "Rust book" and i put the link for this book because I know you are too lazy to look other books up and rust scares you](https://doc.rust-lang.org/book/)
 
----
+  # PS
+I am not a rust preacher, I think it is just a tool like any other language (a good one).
