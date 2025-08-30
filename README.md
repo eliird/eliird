@@ -12,15 +12,6 @@ I am a masters student graduating in 2024 researching Human Robot Interaction. I
 
 # Experience
 
-### Developer/Assistant Manager
-
-***National Engineering and Scientific Commission**, Islamabad, Pakistan – (Jul 2019 - Feb 2020)*
-
-- Embedded System Engineer
-- Designed and Developed High Speed Digital Down Conversion systems on FPGAs
-- Moved the code written in C++ to LabVIEW framework.
-- Worked with quality and testing team to ensure the proper working of the system
-
 ### AI Engineer
 
 ***National Engineering and Scientific Commission**, Islamabad, Pakistan – (Jul 2019 - Jun 2021)*
