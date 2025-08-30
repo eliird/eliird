@@ -6,9 +6,8 @@ I am a programmer, I make computer beep boop beep boop and I dont include anythi
 
 📧 irdali1996@mail.com
 
-🔗 linkedin.com/eliird
+🔗 [linkedin.com/eliird](linkedin.com/eliird)
 
-👾 github.com/eliird
 
 # Experience
 
